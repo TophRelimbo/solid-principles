@@ -1,5 +1,5 @@
 <?php
-public class Student{
+class Student{
     public $name, $current_address, $permanent_address, $id_number;
     private $_secret_key;
    
