@@ -9,7 +9,7 @@ class Student{
     public function update() {}
     public function delete() {}
 }
-public class Course{
+class Course{
   public $name, $student_count;
   
    public function getCourse($course = null){}
